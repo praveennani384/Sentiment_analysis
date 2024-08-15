@@ -12,13 +12,24 @@ This project performs sentiment analysis on text data using a machine learning m
   pip install -r requirements.txt
   ```
 
-### Step 1: Run the Jupyter Notebook
+### Step 1: Clone the Repository
+
+1. Clone the GitHub repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/praveennani384/Sentiment_analysis.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Sentiment_analysis
+   ```
+
+### Step 2: Run the Jupyter Notebook
 
 1. Place the dataset in the same directory as the Jupyter Notebook file (`.ipynb`).
 2. Open the Jupyter Notebook and run all the cells.
 3. After running the notebook, you will get two `.pkl` files.
 
-### Step 2: Start the Streamlit Application
+### Step 3: Start the Streamlit Application
 
 1. Open any code editor and navigate to the project directory.
 2. Start Streamlit by running the following command:
@@ -26,7 +37,7 @@ This project performs sentiment analysis on text data using a machine learning m
    streamlit run app.py
    ```
 
-### Step 3: Analyze Text
+### Step 4: Analyze Text
 
 1. In the Streamlit web application, enter the text you want to analyze in the provided text box.
 2. Click on the "Analyze" button.
@@ -35,4 +46,4 @@ This project performs sentiment analysis on text data using a machine learning m
 ## Author
 
 - **K Praveen Kumar**
-- Email: praveennani384@gmail.com
+- Email: [praveennani384@gmail.com](mailto:praveennani384@gmail.com)
