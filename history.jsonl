@@ -1,0 +1,14 @@
+{"id": 1, "text": "hello my name is praveen nice to meet you", "sentiment": "positive"}
+{"id": 2, "text": "i would like to get you something", "sentiment": "negative"}
+{"id": 3, "text": "my new response is positive", "sentiment": "negative"}
+{"id": 4, "text": "my response is positive", "sentiment": "negative"}
+{"id": 5, "text": "my response is positive", "sentiment": "negative"}
+{"id": 6, "text": "i would like to say OKAY", "sentiment": "negative"}
+{"id": 7, "text": "I would like to reject", "sentiment": "negative"}
+{"id": 8, "text": "I am okay with your presentation", "sentiment": "negative"}
+{"id": 9, "text": "your presentation is good", "sentiment": "positive"}
+{"id": 10, "text": "The movie had an amazing plot with stunning visuals. Truly a masterpiece!", "sentiment": "positive"}
+{"id": 11, "text": "The acting was mediocre, and the storyline was dull. Not worth watching.", "sentiment": "negative"}
+{"id": 12, "text": "I was on the edge of my seat the whole time! A thrilling experience.", "sentiment": "positive"}
+{"id": 13, "text": "The film was too slow and boring. I almost fell asleep.", "sentiment": "negative"}
+{"id": 14, "text": "A heartwarming story with fantastic performances by the cast.", "sentiment": "positive"}
